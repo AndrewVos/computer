@@ -1,0 +1,22 @@
+# lego dimensions
+
+- 8mm per square
+- 18mm high
+
+# raspberry pi dimensions
+
+- 85mm x 56mm
+
+
+# for a high build
+
+50mm for usb port clearance?
+= (85mm + 50mm) / 18mm
+around 8 blocks high
+
+
+
+minimum 8 * 11 blocks internal dimensions
+minimum 11 squares internal height or width
+this isn't taking into account the usb connections to the pi
+should be 13 lego squares wide
